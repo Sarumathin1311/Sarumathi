@@ -1,0 +1,39 @@
+31/12/19
+1.What is the use of FC command and COPY command?
+	File Compare- compare 2 files and return what differs bw them.
+	Copy- one or more files to an alternate location.
+2.What is the purpose of using NETSTAT?
+	Network Statistics, displays network connections.
+3.How to open a notepad, Word using cmd?
+	Notepad,Word-Locate the directory where the winword.exe file is located.
+4.How to send messages to another system using cmd?
+	net send<ipaddress of receiver><message to be send>
+5.What is ECHO cmd?
+	To copy the content of one notepad to another.
+6.What is LS command? LS R?
+7.How to copy the content of one notepad file to another?
+	Echo. Type/Cat command is used to concatenate files.
+8.How to move the content in cmd to Notepad?
+	Echo command is used.
+9.Which command is used to shutdown the system?
+	Shutdown.
+10.How to make the command Touch works?Where?
+	It is used to create a file without any content, pwd command.
+11.Diff bw Compiler and Interpreter.
+	Compiler- It translates source language to machine language.
+	Interpreter-A program imitates the execution of programs written in a source language.
+12.What is Robust? 
+	It focuses on handling unexpected termination and unexpected actions.
+13.Why java is portable?
+	Because, java can be compiled which will spew out byte-code, then it can be run with JVM.
+14.What is Cohesion and Coupling? Which should be high?
+	Cohesion- Degree to which a component/module focuses on single thing.
+	Coupling- Degree to which component/module is connected to other modules.
+	Cohesion should be High.
+15.What is Solid principle?
+	Single Responsibility principle
+	Open Closed principle
+	Liskov's Substitution principle
+	Interface Segregation principle
+	Dependency Inversion principle
+

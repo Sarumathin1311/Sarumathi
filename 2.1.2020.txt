@@ -1,0 +1,29 @@
+2.1.2019
+
+1.What is Alpha testing?
+	It is performed by developer to identify bugs before releasing the product to the customers.
+  What is Beta testing?
+	Beta testing is said to be performed by real users of software application in real environment (user acceptance testing)
+2.What is Compiler language?
+	Compiler language is in which,the code you enter is reduced to set of machine specific instructions before saved as an exe.file. Example-C,C++,COBOL.
+  What is Interpreter language?
+	Interpreter language is in which, the code is saved in same format that you entered.Example- Python,PHP,Javascript.
+3.What are the Html versions available?
+  	Html 1.0
+	Html 2.0
+	Html 3.0
+	Html 3.2
+	Html 4.0 
+	XHTML 
+	HTML 5.
+4.Difference between HTML4 and HTML5-
+	<applet> removed, <object> added
+	<acronym> removed, <abbr> added
+	<hr> to draw line, <hr> used to define thematic break in web page
+	<a>anchor refering to link, <a> used as hyperlink.
+5.What is DOM?
+	Document Object Model
+	It is an Interface that treats XML or HTML document as Tree structure (left to right),each node as a object.It represent document with a tree logic.
+  What is BOM?
+ 	Browser Object Model
+	It is a browser specific convention refering to all objects exposed by web browser.It has no strict definitions as DOM.

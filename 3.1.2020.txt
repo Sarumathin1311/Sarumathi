@@ -1,0 +1,33 @@
+3.1.2020
+1.What is the use of <canvas> tag?
+	It is used to draw graphics on web page.
+
+2.What are Programming languages?
+	Languages which use compiler(compiled to machine code).
+  What are Scripting languages? 
+	Languages which use interpreter, that does'nt require an explicit compilation step and support scripts.
+
+3.What is XHTML?
+	It helps web developers to make the transition from HTML to XML.It was developed to make HTML more extensible and increase interoperability with data formats.
+  What is SGML-
+	Standard Generalized Markup Language,it is used for marking up document and has the advantage of not being dependent on a specific application.
+
+4.What is the use of <pre> tag?
+	It is to preserve the content, and display it in the browser.
+
+5.If you click on the link on top of the page ,it should take you to the bottom of the page.
+	use a html anchor
+	<a href="#bottom">bottom section</a>
+
+6.What is the use of <center>tag?
+	It is intended to be used for presentation only. It has no other semantic meaning.
+
+7.What is the use of <em> tag?
+	It is used to display the text in italics.
+
+8.What is the use of <strong> tag?
+	It is used to bold the text.
+
+9.How to make Html page responsive?
+	By using HTML ans CSS to automatically resize,hide,shrink or enlarge a website to look good on all devices.
+	
