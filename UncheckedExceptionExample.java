@@ -1,7 +1,3 @@
-/*Author: Ritu Bala Rai
- *Description: Handling Unchecked Exception.
- * */
-
 package ygg;
 
 public class UncheckedException {
