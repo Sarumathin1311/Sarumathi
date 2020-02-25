@@ -1,18 +1,10 @@
-import {BrowserModule} from '@angular/platform-browser';
-import {NgModule}      from '@angular/core';
-import {AppComponent}  from './app.component';
-import {RemoveSpaces} from './remove-space';
-
-
+import { NgModule }       from '@angular/core';
+import { BrowserModule }  from '@angular/platform-browser';
+import { UserComponent }  from './user.component';
 @NgModule({
-  imports: [     
-        BrowserModule
-  ],
-  declarations: [
-        AppComponent, RemoveSpaces  
-  ],
-  bootstrap: [
-        AppComponent
-  ]
+  imports:      [BrowserModule],
+  declarations: [UserComponent],
+  bootstrap:    [UserComponent]
 })
 export class AppModule { }
+  
