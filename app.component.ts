@@ -1,18 +1,9 @@
-import { Component } from '@angular/core';
-import {RemoveSpaces} from './remove-space';
+import { Component} from '@angular/core';
+
 @Component({
-  selector: 'remove-spaces-impl',
-	template: `
-	    <h2>Custom pipe : removeSpaces</h2>
-			<h4> {{sampleString | removeSpaces}}</h4>
-			<p (click)="somefun()">Click Here to see console output</p>
-	    `
+	selector: 'app-root',
+	templateUrl: './app.component.html'
 })
-
-export class AppComponent {
-	sampleString = "Angular 2 is excellent";
-
-	somefun():void{
-		console.log(new RemoveSpaces().transform(this.sampleString));
-	}
+export class AppComponent{
+  myMsg = 'L&T Angular 4 App';
 }
